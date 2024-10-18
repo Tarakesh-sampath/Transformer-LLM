@@ -1,5 +1,4 @@
 matplotlib
-numpy
-pylzma 
+numpy 
 ipykernel
 jupyter
